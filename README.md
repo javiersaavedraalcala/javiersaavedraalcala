@@ -9,7 +9,7 @@ I am a code lover!
 * 🌍  I'm based in Jalisco, México
 * 🖥️  See my portfolio at [javiersaavedra.com](http://javiersaavedra.com/)
 * ✉️  You can contact me at [javiersaavedradev@gmail.com](mailto:javiersaavedradev@gmail.com)
-* 🧠  I'm learning c# .Net
+* 🧠  I'm learning DevOps
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
