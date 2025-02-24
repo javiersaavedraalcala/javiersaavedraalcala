@@ -9,7 +9,7 @@ I am a project lover!
 * 🌎  I'm based in Jalisco, México
 * 🖥️  See my portfolio at [javiersaavedra.com](http://javiersaavedra.com/)
 * ✉️  You can contact me at [javiersaavedradev@gmail.com](mailto:javiersaavedradev@gmail.com)
-* 📖  I'm learning C# .NET
+* 📖  I'm learning AWS
 * 👨🏻‍💻  I'm open to collaborating on Projects
 
 ### Skills
