@@ -4,8 +4,6 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Backend Developer | Future Cloud Engineer (AWS ☁️)
 --------------------
 
-I am a tech lover!
-
 * 🌎  I'm based in Jalisco, México
 * 💻  See my portfolio at [javiersaavedra.com](http://javiersaavedra.com/)
 * ✉️  You can contact me at [javiersaavedradev@gmail.com](mailto:javiersaavedradev@gmail.com)
